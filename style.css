@@ -53,3 +53,22 @@ body {
 
 
 
+#red:hover {
+  color: red;
+}
+
+#blue:hover {
+  color: rgb(0, 140, 255);
+}
+
+#orange:hover {
+  color: orange;
+}
+
+#green:hover {
+  color: rgb(52, 255, 96);
+}
+
+#yellow:hover {
+  color: yellow;
+}
