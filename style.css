@@ -28,7 +28,7 @@ h1{
   font-size: 200px;
   color: white;
   text-align: center;
-  margin-top: 150px;
+
   margin-bottom: 0px;
 }
 
@@ -38,16 +38,26 @@ h2{
   font-size: 50px;
 }
 
-body{
-  
+html{
+
+  padding-top:0px;
+  margin-top: 0px;
   background-color: black;
   background-image: linear-gradient(90deg,var(--grad-bg) 5%,black 5% 95%);
   background-size: 4rem 4rem ;
 
 }
 
+
 body {
+  margin-top:000px;
+  padding-top: 0px;
+  min-height: 100vh;
+  border: 1px solid black;
+  width: 99%;
+
   
+  background-image: linear-gradient(90deg,black 5%,transparent ,black 95%);
   font-family:centuryGothic ;
 }
 
