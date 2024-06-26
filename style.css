@@ -29,6 +29,7 @@ h1{
   color: white;
   text-align: center;
 
+  margin-top: 50px;
   margin-bottom: 0px;
 }
 
@@ -51,11 +52,12 @@ html{
 
 body {
   margin-top:000px;
+  margin-bottom: 0px;
   padding-top: 0px;
   min-height: 100vh;
   border: 1px solid black;
   width: 99%;
-
+  margin-left: 0px;
   
   background-image: linear-gradient(90deg,black ,transparent ,black );
   font-family:centuryGothic ;
