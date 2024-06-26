@@ -1,0 +1,55 @@
+@font-face {
+  font-family: centuryGothic;
+  src: url(centurygothic.ttf);
+}
+
+:root{
+  --grad-bg:grey
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+h3{
+  color:white;
+  text-align:center;
+  margin-top:25px
+  ;
+  margin-bottom: 150px;
+}
+
+h1{
+  font-size: 200px;
+  color: white;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 0px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+body{
+  
+  background-color: black;
+  background-image: linear-gradient(90deg,var(--grad-bg) 5%,black 5% 95%);
+  background-size: 4rem 4rem ;
+
+}
+
+body {
+  
+  font-family:centuryGothic ;
+}
+
+
+
