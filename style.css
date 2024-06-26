@@ -57,7 +57,7 @@ body {
   width: 99%;
 
   
-  background-image: linear-gradient(90deg,black 5%,transparent ,black 95%);
+  background-image: linear-gradient(90deg,black ,transparent ,black );
   font-family:centuryGothic ;
 }
 
