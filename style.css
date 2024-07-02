@@ -84,3 +84,9 @@ body {
 #yellow:hover {
   color: yellow;
 }
+
+
+.color-title:hover{
+  font-size: 55px;
+  font-weight: bold;
+}
